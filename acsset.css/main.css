@@ -1,0 +1,43 @@
+.section-from {
+    width:400px;
+    min-height: auto;
+    position: relative;
+    margin:auto;
+    border:1px solid 
+   }
+   .section-from__input {
+       background-color: rgb(13, 180, 236);
+   
+   }
+   .section-from__input-text {
+       width:372px;
+       height:30px;
+       padding: 0 12px
+   }
+   .section-from__foot {
+       background-color:yellow;
+   }
+   img {
+       width: 160px;
+       height:160px;
+       margin-left:120px
+   }
+   .section-from__footer {
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       margin:0 12px;
+   }
+   .click {
+       background-color:red;
+       padding: 8px;
+   }
+   button {
+       width:100%;
+       margin-top:10px;
+       height:35px;
+       border-radius: 13px;
+       background-color:rgb(17, 17, 164);
+       color:white;
+   }
+   
